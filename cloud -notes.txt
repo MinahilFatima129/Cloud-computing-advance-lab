@@ -1,0 +1,3 @@
+git clone https://github.com/USERNAME/CloudComputing-Advanced-Lab.git
+cd CloudComputing-Advanced-Lab
+git status
